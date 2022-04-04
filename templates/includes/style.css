@@ -1,0 +1,9 @@
+*{
+    background-color: black;
+    color: white;
+}
+form{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto min-content;
+}
